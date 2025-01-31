@@ -14,9 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![reduced_image](https://github.com/user-attachments/assets/80e33244-04ce-41b5-bc05-4a17ecbdd7bd)
+![DEEPSHIKHA SAHOO](https://github.com/user-attachments/assets/72851b87-4378-49bc-8f2d-9626dfea0aac)
 
+I m a software developer and soon to be game and AI developer.
 
-Hi, I m Deepshikha
-I m a software developer and transitioning my career into AI and gaming.
-This is my first time maintaining the GITHUB. 
+There are few things that excites me , 
+1. Aeroplanes ✈️
+2. Fighter Aeroplanes
+3. Cars 🏎️
+4. Books📚
+5. Gadgets 🎮
+   
+I love my work and I m working on involving more and more....
+Other than development, I like to sketch. I know to do it procreate, yet to learn adobe and blender...
+
+I fast but lazy....
+Sharp but hazy....
