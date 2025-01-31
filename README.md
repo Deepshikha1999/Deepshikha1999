@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![reduced_image](https://github.com/user-attachments/assets/80e33244-04ce-41b5-bc05-4a17ecbdd7bd)
+
+
+Hi, I m Deepshikha
+I m a software developer and transitioning my career into AI and gaming.
+This is my first time maintaining the GITHUB. 
