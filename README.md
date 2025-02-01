@@ -30,3 +30,10 @@ Other than development, I like to sketch. I know to do it procreate, yet to lear
 
 I fast but lazy....
 Sharp but hazy....
+
+![image](https://github.com/user-attachments/assets/f4d1ffec-10e3-4782-9eb6-9d19f6ffd913)
+
+
+EXPERIENCE :
+API Developement, Middleware development: IBM , 2021-2024
+
