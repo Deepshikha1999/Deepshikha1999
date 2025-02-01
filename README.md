@@ -28,10 +28,23 @@ There are few things that excites me ,
 I love my work and I m working on involving more and more....
 Other than development, I like to sketch. I know to do it procreate, yet to learn adobe and blender...
 
-I fast but lazy....
-Sharp but hazy....
+I fast but lazy....\n
+Sharp but hazy....\n
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Technology** ------------ Recently worked on.
+Python        ------------- Actively working on it.
+JavaScript    ------------- Currently using and improving.
+React.js      ------------- Part of my current focus.
+Node.js       ------------- Recently worked on.
+Unity (C#)    ------------- Currently exploring and utilizing.
+Java          ------------- Familiar with it; Need revisiting concepts like Spring and Maven.
+C++           ------------- Knowledgeable, but will refresh when needed.
+Angular.js    ------------- Worked on previously; can pick it up again if required.
+Neo4j         ------------- Recently worked on.
+SQL           ------------- Remember basic queries; AI tools assist with advanced queries.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-![image](https://github.com/user-attachments/assets/f4d1ffec-10e3-4782-9eb6-9d19f6ffd913)
+
 
 
 EXPERIENCE :
