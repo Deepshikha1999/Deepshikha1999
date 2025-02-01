@@ -32,7 +32,7 @@ I fast but lazy....<br>
 Sharp but hazy....<br>
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br>
-**Technology** ------------ Recently worked on.<br>
+**Technology** ------------ **Proficiency/Focus**<br>
 Python--------------------- Actively working on it.<br>
 JavaScript----------------- Currently using and improving.<br>
 React.js------------------- Part of my current focus.<br>
