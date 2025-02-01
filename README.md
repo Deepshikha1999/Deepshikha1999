@@ -31,7 +31,7 @@ Other than development, I like to sketch. I know to do it procreate, yet to lear
 I fast but lazy....<br>
 Sharp but hazy....<br>
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br>
+
 **Technology** ------------ **Proficiency/Focus**<br>
 Python--------------------- Actively working on it.<br>
 JavaScript----------------- Currently using and improving.<br>
@@ -43,7 +43,7 @@ C++------------------------ Knowledgeable, but will refresh when needed.<br>
 Angular.js----------------- Worked on previously; can pick it up again if required.<br>
 Neo4j---------------------- Recently worked on.<br>
 SQL------------------------ Remember basic queries; AI tools assist with advanced queries.<br>
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br>
+
 <br>
 EXPERIENCE :<br>
 API Developement, Middleware development: IBM , 2021-2024<br>
